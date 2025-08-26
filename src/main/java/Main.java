@@ -1,4 +1,5 @@
-import br.com.mariojp.solid.isp.*;
+import br.com.mariojp.solid.isp.OfficeService;
+import br.com.mariojp.solid.isp.SimplePrinter;
 
 public class Main {
 	public static void main(String[] args) {
